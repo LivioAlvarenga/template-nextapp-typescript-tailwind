@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Template Projeto NextJs 13 ... 
+	Template Projeto NextJs 13 APP diretório.
 </h1>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 ...
+🚀 Inicie rapidamente seu projeto com nosso template para NextJs 13. Pré-configurado com NodeJs, TypeScript, JavaScript, React, Tailwind, Dotenv, ZodJs, EsLint e Prettier, este template acelera seu fluxo de trabalho e permite que você se concentre no que realmente importa.
 
 &nbsp;
 
@@ -30,7 +30,7 @@
 <p>
 
 <p align="center">
-  <a href= "https://vercel.com/"><img alt="deploy badge Vercel" height=40 src="https://img.shields.io/static/v1?logoWidth=15&logoColor=000000&logo=Vercel&label=Cloud Hosting Platform&message=Vercel&color=000000"></a>
+  <a href= "https://vercel.com/"><img alt="deploy badge Vercel" height=40 src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/fc06a7aa8d0f8ed5f446dcd83efd842e810d77df/files/vercel-badge.svg"></a>
 <p>
 
 &nbsp;
