@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Template Projeto NextJs 13 ... 
+	Template Projeto NextJs 13 APP diretório.
 </h1>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 ...
+🚀 Inicie rapidamente seu projeto com nosso template para NextJs 13. Pré-configurado com NodeJs, TypeScript, JavaScript, React, Tailwind, Dotenv, ZodJs, EsLint e Prettier, este template acelera seu fluxo de trabalho e permite que você se concentre no que realmente importa.
 
 &nbsp;
 
@@ -30,7 +30,7 @@
 <p>
 
 <p align="center">
-  <a href= "https://vercel.com/"><img alt="deploy badge Vercel" height=40 src="https://img.shields.io/static/v1?logoWidth=15&logoColor=000000&logo=Vercel&label=Cloud Hosting Platform&message=Vercel&color=000000"></a>
+  <a href= "https://vercel.com/"><img alt="deploy badge Vercel" height=40 src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/fc06a7aa8d0f8ed5f446dcd83efd842e810d77df/files/vercel-badge.svg"></a>
 <p>
 
 &nbsp;
@@ -65,6 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto
   <a href= "https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
   <a href= "https://nextjs.org/"><img alt="Next.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d0444795ba750206fa52326b03a097df76171407/files/nextjs-badge.svg"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d0444795ba750206fa52326b03a097df76171407/files/react-badge.svg"></a>
+  <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=06b6d4&logo=Tailwind CSS&label=Style&message=Tailwind CSS&color=06b6d4"></a>
   <a href= "https://www.dotenv.org/" target="_blank" rel="noopener noreferrer"><img alt="Dotenv badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/4eed338fdcd547570ed365f2b344e43c8202e88f/files/dotenv-badge.svg"></a>
   <a href= "https://zod.dev/" target="_blank" rel="noopener noreferrer"><img alt="ZOD badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7caba2f743ee9b61f0225a22da57466ecb67097c/files/zod-badge.svg"></a>
   <a href= "https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
