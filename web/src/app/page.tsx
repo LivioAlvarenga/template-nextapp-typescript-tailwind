@@ -2,10 +2,10 @@ import ComponentExample from '@/components/ComponentExample'
 
 export default function Home() {
   return (
-    <main className="wrapper flex min-h-screen flex-col items-center justify-center p-10">
+    <main className="wrapper flex min-h-screen flex-col items-start justify-center p-10">
       <ComponentExample />
       <h2 className="headline3 pb-5">Não esquecer de:</h2>
-      <ul>
+      <ul className="flex flex-wrap items-start justify-between gap-4">
         <li className="body1 pb-3">
           Ir na pasta files e modificar o arquivo favicon.xcf e adiciona-lo em
           src/app/favicon.ico - Use o gimp para isso o favicon possuem as
