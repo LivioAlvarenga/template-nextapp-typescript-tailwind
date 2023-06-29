@@ -43,7 +43,7 @@
 ## 📺 Vitrine Dev
 
 | :placard: Vitrine.Dev |                                                                                                        |
-| --------------------- | ------------------------------------------------------------------------------------------------------ | --- |
+| --------------------- | ------------------------------------------------------------------------------------------------------ | 
 | :sparkles: Nome       | **Template**                                                                                           |
 | :label: Tecnologias   | NodeJs, TypeScript, JavaScript, Typescript, Nextjs, React, Tailwind, Dotenv, ZodJs, EsLint e prettier. |     |
 
